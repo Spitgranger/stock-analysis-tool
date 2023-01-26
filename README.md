@@ -1,6 +1,6 @@
 # Stock analysis tool
 Pulls data from Yahoo Finance then provides functions to analyze stocks.
-Currently generates a spreadsheet with indicators
+Currently generates a spreadsheet with indicators, five day performance, ten day performance, twenty day performance, can apply conditional formatting to help filter
 ## Functions
 ### `get_data(symbols, time_period)`
 This function returns a pandas dataframe containing the historical closing prices of the ticker symbols passed to it.
