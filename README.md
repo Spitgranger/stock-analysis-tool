@@ -34,4 +34,5 @@ This function returns a pandas dataframe containing the 365 day performance of t
 | df | a pandas dataframe containing historical stock data. Should be the one returned by `get_data` |
 
 
+Total return is spreadsheet, to change modify the given ticker symbols
 
