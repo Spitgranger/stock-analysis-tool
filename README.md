@@ -35,4 +35,4 @@ This function returns a pandas dataframe containing the 365 day performance of t
 
 
 Total return is spreadsheet, to change modify the given ticker symbols
-
+Note: Ticker symbols do not automaticaly update.
