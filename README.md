@@ -1,6 +1,6 @@
 # Stock analysis tool
 Pulls data from Yahoo Finance then provides functions to analyze stocks.
-Currently generates a spreadsheet with indicators, five day performance, ten day performance, twenty day performance, can apply conditional formatting to help filter potential ideas.
+Currently generates a spreadsheet with indicators, five day performance, ten day performance, twenty day performance, can apply conditional formatting to help filter potential ideas. Currently has functions to gather symbols from: TSX60, NASDAQ, SP500
 ## Dependencies 
 * Pandas
 * Pandas datareader
